@@ -83,8 +83,8 @@ Empty.args = {
     tabs: [],
 };
 
-export const OneItem = HomeTemplate.bind({});
-OneItem.args = {
+export const AllItems = HomeTemplate.bind({});
+AllItems.args = {
     tabs: [
         {
             name: 'tab 1',
